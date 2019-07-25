@@ -31,19 +31,19 @@ These instructions will help you setup 'One Click Automation' of manual creation
 * 3.Select required number of instances (nodes).
 * 3.Select your key.
 * 4.Check the prompt regarding IAM roles.
-* 5.Click on Create Stack
+* 5.Click on Create Stack.
 
 ### Output
 
-* 1.Click on the URL displayed in output section of CFT after your stack is created
-* 2.Log in into Ambari
-* 3.Here you can see all the services installing
-* 4.The installation will finish in 20-30 minutes
+* 1.Click on the URL displayed in output section of CFT after your stack is created.
+* 2.Log in into Ambari.
+* 3.Here you can see all the services installing.
+* 4.The installation will finish in 20-30 minutes.
 
 
 ### You have succesfully automated the creation and deployment of multi-node HDP cluster.
 
-Next time onwards you only need to upload the json file and create a stack to create and deploy a HDP multi-n0de cluster
+Next time onwards you only need to upload the json file and create a stack to create and deploy a HDP multi-n0de cluster.
 
 
 ## Built With
