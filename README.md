@@ -16,7 +16,7 @@ These instructions will help you setup 'One Click Automation' of manual creation
 ### Preparing for One Click Automation:
 
 * 1.Log into you AWS Account.
-* 2.Goto s3 service.
+* 2.Goto S3 service.
 * 3.Create a bucket.
 * 4.Upload the Python folder which contains the python Script to retrive Private-Dns of required EC2 instances and map those into ambari blueprint mapping file.
 * 4.Upload the blue print folder which has the Ambari Blueprint and Mapping file.
