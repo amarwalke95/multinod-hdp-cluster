@@ -61,4 +61,5 @@ Next time onwards you only need to upload the json file and create a stack to cr
 ## Acknowledgments
 
 * Guided By : [Pradeep Tripathi](https://in.linkedin.com/in/pradeep93)
+* Guided By : [Pradeep Thawani](https://in.linkedin.com/in/pradeep-thawani-b6b3ab170)                                 
 
