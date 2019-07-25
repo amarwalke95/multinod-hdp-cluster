@@ -1,6 +1,6 @@
 # multinode-hdp-cluster
 
-One Click Automation of creation and deployment of multi-node HDP cluster using Iac on AWS.
+One Click Automation of creation and deployment of multi-node HDP cluster using IaC on AWS.
 
 ## Getting Started
 
@@ -43,7 +43,7 @@ These instructions will help you setup 'One Click Automation' of manual creation
 
 ### You have succesfully automated the creation and deployment of multi-node HDP cluster.
 
-Next time onwards you only need to upload the json file and create a stack to create and deploy a HDP multi-n0de cluster.
+Next time onwards you only need to upload the json file and create a stack to create and deploy a HDP multi-node cluster.
 
 
 ## Built With
