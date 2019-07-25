@@ -36,7 +36,7 @@ These instructions will help you setup 'One Click Automation' of manual creation
 ### Output
 
 * 1.Click on the URL displayed in output section of CFT after your stack is created
-* 2.Log in into Amabari
+* 2.Log in into Ambari
 * 3.Here you can see all the services installing
 * 4.The installation will finish in 20-30 minutes
 
