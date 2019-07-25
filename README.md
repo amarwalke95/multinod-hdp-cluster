@@ -9,9 +9,6 @@ These instructions will help you setup 'One Click Automation' of manual creation
 ### Prerequisites
 
 * 1.AWS Account
-*  1.a Knowledge of EC2 (Elastic Cloud Compute)
-*  1.b Knowledge of CFT (Cloud Formation Template)
-*  1.c Knowlege of S3 (Simple Storage Service)
 * 2.Knowledge of Shell Script
 * 3.Knowledge of Python
 
