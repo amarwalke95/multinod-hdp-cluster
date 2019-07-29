@@ -20,7 +20,7 @@ These instructions will help you setup 'One Click Automation' of manual creation
 * 3.Create a bucket.
 * 4.Upload the Python folder which contains the python Script to retrive Private-Dns of required EC2 instances and map those into ambari blueprint mapping file.
 * 4.Upload the blue print folder which has the Ambari Blueprint and Mapping file.
-* 5.Open The Coud Formation json file and and go to for each instance user data,here edit the aws cli command according to your s3 bucket.
+* 5.Open The Coud Formation json file and and go to user data in each instance ,here edit the aws cli command according to your s3 bucket.
 * 6.Save changes.
 
 
